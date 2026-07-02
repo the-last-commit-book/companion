@@ -1,0 +1,35 @@
+Function review
+Each function checks one repeated question against the evidence files.
+
+Suspect: Eleanor Hartley
+has_northstar_motive: True
+lied_about_library_alibi: True
+knew_old_admin_card: True
+had_deleted_meeting_with_marcus: True
+used_clean_exit_phrase: True
+has_private_device_near_east_wing: True
+old_admin_connected_to_manual_camera_disable: True
+convergence_score: 7
+
+Suspect: Mikhail Volkov
+has_northstar_motive: False
+lied_about_library_alibi: False
+knew_old_admin_card: True
+had_deleted_meeting_with_marcus: False
+used_clean_exit_phrase: False
+has_private_device_near_east_wing: False
+old_admin_connected_to_manual_camera_disable: True
+convergence_score: 2
+
+Suspect: Julian Cross
+has_northstar_motive: False
+lied_about_library_alibi: False
+knew_old_admin_card: False
+had_deleted_meeting_with_marcus: False
+used_clean_exit_phrase: False
+has_private_device_near_east_wing: False
+old_admin_connected_to_manual_camera_disable: False
+convergence_score: 0
+
+Clue: the same reusable checks converge most strongly on Eleanor Hartley.
+Reminder: a convergence score organizes evidence. It is not a verdict.

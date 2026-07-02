@@ -1,0 +1,27 @@
+Camera timeline review
+Camera: CAM-EAST-02
+Location: East Balcony
+Offline start: 00:10
+Offline end: 00:17
+
+00:10 camera offline
+00:11 camera offline
+00:12 camera offline
+00:13 camera offline
+00:14 camera offline
+00:15 camera offline
+00:16 camera offline
+
+Offline minutes counted: 7
+Smart-light system: still recording
+Smart-light room checked: Library
+Clue: the east camera was blind for exactly seven minutes, but the house kept recording elsewhere.
+
+Range check:
+range minute: 00:10
+range minute: 00:11
+range minute: 00:12
+range minute: 00:13
+range minute: 00:14
+range minute: 00:15
+range minute: 00:16

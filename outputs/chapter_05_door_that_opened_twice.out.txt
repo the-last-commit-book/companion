@@ -1,0 +1,10 @@
+Door review: EAST_BALCONY_DOOR
+First opening: 00:08
+Door closed: 00:09
+Second opening: 00:15
+
+The second opening is recorded under Marcus Thorne's identity.
+Marcus's last confirmed location before 00:15: outside the balcony door.
+No re-entry event was found between 00:09 and 00:15.
+The 00:15 opening is recorded as coming from inside the house.
+Contradiction: Marcus could not open the east balcony door from inside at 00:15.

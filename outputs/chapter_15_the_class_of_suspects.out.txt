@@ -1,0 +1,53 @@
+Suspect object review
+Each suspect is now a structured object with the same fields and scoring method.
+
+Suspect: Eleanor Hartley
+Role: Cofounder
+Claimed location: Library
+Score: 16
+Findings:
+- known financial pressure tied to Marcus's announcement
+- approved Northstar under-threshold payments
+- library alibi fails timezone conversion
+- knew OLD-ADMIN-000 still worked
+- deleted private Marcus meeting recovered
+- used phrase echoed by Marcus's recovered note
+- private device appeared near east wing
+- old admin card connects to manual camera disable
+
+Suspect: Julian Cross
+Role: Investor
+Claimed location: Wine Cellar
+Score: 1
+Findings:
+- known financial pressure tied to Marcus's announcement
+
+Suspect: Imogen Wells
+Role: Former lead designer / ex-wife
+Claimed location: West Gallery
+Score: 0
+Findings: no direct evidence flags from the current checks
+
+Suspect: Mikhail Volkov
+Role: Head of security
+Claimed location: Security Office
+Score: 3
+Findings:
+- knew OLD-ADMIN-000 still worked
+- old admin card connects to manual camera disable
+
+Suspect: Priya Anand
+Role: Journalist
+Claimed location: Conservatory
+Score: 0
+Findings: no direct evidence flags from the current checks
+
+Suspect: Daniel Thorne
+Role: Younger brother
+Claimed location: Billiard Room
+Score: 0
+Findings: no direct evidence flags from the current checks
+
+Highest current evidence score: Eleanor Hartley 16
+Clue: the class model applies the same structure to every suspect and still converges on Eleanor Hartley.
+Reminder: the score is an investigation aid, not a verdict.

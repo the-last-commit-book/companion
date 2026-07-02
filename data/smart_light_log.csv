@@ -1,0 +1,3 @@
+timestamp_utc,room,event,actor_hint
+2025-10-14T00:17:00Z,Library,occupancy_confirmed,Eleanor Hartley
+2025-10-14T04:17:00Z,Library,no_occupancy,

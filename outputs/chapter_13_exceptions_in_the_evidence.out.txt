@@ -1,0 +1,25 @@
+Camera metadata recovery
+File: data/camera_metadata.json
+Target camera: CAM-EAST-02
+
+Reviewing record for: CAM-EAST-02
+Record status: offline
+Command: manual_disable
+Source: ADMIN_OVERRIDE
+Keycard: OLD-ADMIN-000
+Finding: complete metadata says the camera was manually disabled.
+
+Reviewing record for: CAM-EAST-02
+Record status: corrupt_fragment
+Incomplete record found. Recovering from raw fragment.
+Recovered camera: CAM-EAST-02
+Recovered timestamp: 2025-10-14T00:10:00-04:00
+Recovered command: manual_disable
+Recovered source: ADMIN_OVERRIDE
+Recovered keycard: OLD-ADMIN-000
+Finding: recovered fragment also says manual disable.
+
+Manual disable findings: 2
+Recovered corrupt fragments: 1
+Storm failure findings: 0
+Clue: CAM-EAST-02 was manually disabled by admin override, not knocked out by the storm.

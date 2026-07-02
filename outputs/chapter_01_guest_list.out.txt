@@ -1,0 +1,7 @@
+Case: Marcus Thorne at Raven House
+Check: Raven House device check
+Rule: one registered device per invited guest
+Invited guests: 6
+Registered devices: 7
+Unexplained devices: 1
+First clue: there is one more device than invited guest.

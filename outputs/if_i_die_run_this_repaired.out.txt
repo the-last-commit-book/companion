@@ -1,0 +1,38 @@
+Verifying repository history...
+
+4c19a02 GENUINE
+e03a7bf GENUINE
+7d4f0e9 GENUINE
+8a19fc2 TAMPERED -- dates disagree or wrong machine
+b6117aa TAMPERED -- dates disagree or wrong machine
+91c4d0b TAMPERED -- dates disagree or wrong machine
+c04f7aa TAMPERED -- dates disagree or wrong machine
+f18d2c9 TAMPERED -- dates disagree or wrong machine
+a62b19e TAMPERED -- dates disagree or wrong machine
+d77f4e1 TAMPERED -- dates disagree or wrong machine
+e3c6a04 TAMPERED -- dates disagree or wrong machine
+b4a90df TAMPERED -- dates disagree or wrong machine
+6f2c1bd TAMPERED -- dates disagree or wrong machine
+0d8c4be TAMPERED -- dates disagree or wrong machine
+9ce71a3 TAMPERED -- dates disagree or wrong machine
+3a6e0dc TAMPERED -- dates disagree or wrong machine
+f49b72e TAMPERED -- dates disagree or wrong machine
+
+Genuine commits: 3
+Tampered commits: 14
+
+If tampered commits exist, read this aloud to whoever is investigating:
+
+  Someone has been inside my repository. My chapters change on nights
+  I do not write. I do not yet know which of them it is, so I am
+  telling the only witness I still trust: the graph.
+
+  Copies of what matters are with my attorney in Rockland:
+  the vendor ledger, the original 2019 board metrics, and a list of
+  every person who can touch this house's logs.
+
+  Do not trust any commit whose two dates disagree.
+  Trust the graph, not the dates.
+  Whoever edits history is the one who needs it edited.
+
+  -- M.T.

@@ -1,0 +1,5 @@
+timestamp_local,door,event,user,side,keycard_id,result
+2025-10-14 00:06:00,SERVICE_STAIR_EAST,opened,Unassigned legacy admin,inside,OLD-ADMIN-000,success
+2025-10-14 00:08:00,EAST_BALCONY_DOOR,opened,Marcus Thorne,inside,MT-001,success
+2025-10-14 00:09:00,EAST_BALCONY_DOOR,closed,Marcus Thorne,inside,MT-001,success
+2025-10-14 00:15:00,EAST_BALCONY_DOOR,opened,Marcus Thorne,inside,OLD-ADMIN-000,success

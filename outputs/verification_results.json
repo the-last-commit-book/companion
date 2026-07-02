@@ -1,0 +1,158 @@
+[
+  {
+    "script": "chapter_01_guest_list.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_01_guest_list.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_02_seventh_device.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_02_seventh_device.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_03_messages_after_midnight.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_03_messages_after_midnight.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_04_suspect_board.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_04_suspect_board.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_05_door_that_opened_twice.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_05_door_that_opened_twice.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_06_every_alibi_has_a_loop.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_06_every_alibi_has_a_loop.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_07_the_impossible_minute.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_07_the_impossible_minute.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_08_the_library_alibi.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_08_the_library_alibi.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_09_the_duplicate_keycard.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_09_the_duplicate_keycard.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_10_the_vendor_file.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_10_the_vendor_file.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_11_the_deleted_calendar_invite.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_11_the_deleted_calendar_invite.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_12_the_phrase_that_gave_her_away.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_12_the_phrase_that_gave_her_away.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_13_exceptions_in_the_evidence.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_13_exceptions_in_the_evidence.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_14_functions_dont_lie.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_14_functions_dont_lie.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_15_the_class_of_suspects.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_15_the_class_of_suspects.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_16_test_the_alibis.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_16_test_the_alibis.out.txt",
+    "stderr": "test_actual_murder_time_is_one_hour_later_in_utc (__main__.TestLibraryAlibi.test_actual_murder_time_is_one_hour_later_in_utc) ... ok\ntest_eleanor_library_alibi_fails (__main__.TestLibraryAlibi.test_eleanor_library_alibi_fails) ... ok\ntest_library_is_empty_at_actual_murder_time (__main__.TestLibraryAlibi.test_library_is_empty_at_actual_murder_time) ... ok\ntest_naive_clock_reading_looks_like_murder_time (__main__.TestLibraryAlibi.test_naive_clock_reading_looks_like_murder_time) ... ok\ntest_other_suspects_do_not_have_eleanor_library_failure (__main__.TestLibraryAlibi.test_other_suspects_do_not_have_eleanor_library_failure) ... ok\ntest_utc_library_confirmation_converts_one_hour_early (__main__.TestLibraryAlibi.test_utc_library_confirmation_converts_one_hour_early) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nOK\n"
+  },
+  {
+    "script": "chapter_17_the_final_program.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_17_the_final_program.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_18_the_announcement.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_18_the_announcement.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_19_the_commit_that_couldnt_exist.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_19_the_commit_that_couldnt_exist.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_20_two_clocks.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_20_two_clocks.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_21_the_alibi_that_answered_itself.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_21_the_alibi_that_answered_itself.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_22_too_obvious.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_22_too_obvious.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_23_provenance.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_23_provenance.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "chapter_24_the_mainland_copy.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\chapter_24_the_mainland_copy.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "if_i_die_run_this_repaired.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\if_i_die_run_this_repaired.out.txt",
+    "stderr": ""
+  },
+  {
+    "script": "verify_dataset.py",
+    "returncode": 0,
+    "stdout_file": "outputs\\verify_dataset.out.txt",
+    "stderr": ""
+  }
+]

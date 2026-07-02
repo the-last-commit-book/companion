@@ -1,0 +1,17 @@
+Calendar review
+File: data/calendar.json
+
+Calendar timezone: America/New_York
+Recovered events: 3
+
+Deleted Marcus-Eleanor meetings:
+Event ID: evt-771
+Title: Private meeting: Marcus + Eleanor
+Start: 2025-10-13T23:50:00-04:00
+End: 2025-10-14T00:05:00-04:00
+Location: Marcus's Study
+Deleted by: Eleanor Hartley
+Notes: Recovered from calendar sync cache.
+
+Deleted Marcus-Eleanor meeting count: 1
+Clue: a deleted calendar invite places Marcus and Eleanor in a private study meeting before the murder.

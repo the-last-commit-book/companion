@@ -1,0 +1,14 @@
+{
+  "service": "Glasshouse Cloud Audit",
+  "region": "us-east-1",
+  "note": "Timestamps are UTC. Maine local time in October is UTC-4.",
+  "events": [
+    {"event_id": "ev-6001", "timestamp_utc": "2025-10-13T20:14:00Z", "actor_token": "usr-mt-0001", "principal_claimed": "marcus.thorne@glasshouse", "source_ip": "10.20.0.5", "action": "repo.commit.push", "resource": "marcus-thorne/last-commit"},
+    {"event_id": "ev-6002", "timestamp_utc": "2025-10-14T02:31:00Z", "actor_token": "usr-eh-0002", "principal_claimed": "eleanor.hartley@glasshouse", "source_ip": "10.20.0.9", "action": "board.packet.view", "resource": "board/announcement-night"},
+    {"event_id": "ev-6003", "timestamp_utc": "2025-10-14T03:43:00Z", "actor_token": "usr-mt-0001", "principal_claimed": "marcus.thorne@glasshouse", "source_ip": "10.20.0.5", "action": "repo.commit.push", "resource": "marcus-thorne/last-commit"},
+    {"event_id": "ev-6004", "timestamp_utc": "2025-10-14T03:47:00Z", "actor_token": "usr-mt-0001", "principal_claimed": "marcus.thorne@glasshouse", "source_ip": "10.20.0.5", "action": "repo.commit.push", "resource": "marcus-thorne/last-commit"},
+    {"event_id": "ev-6005", "timestamp_utc": "2025-10-14T04:41:00Z", "actor_token": "svc-kiosk-7742", "principal_claimed": "marcus.thorne@glasshouse", "source_ip": "10.20.0.5", "action": "credential.assume_identity", "resource": "user:marcus.thorne"},
+    {"event_id": "ev-6006", "timestamp_utc": "2025-10-14T06:09:14Z", "actor_token": "svc-kiosk-7742", "principal_claimed": "marcus.thorne@glasshouse", "source_ip": "10.20.0.5", "action": "repo.history.push", "resource": "marcus-thorne/last-commit"},
+    {"event_id": "ev-6007", "timestamp_utc": "2025-10-14T13:02:00Z", "actor_token": "usr-pa-0006", "principal_claimed": "priya.anand@raven-press.example", "source_ip": "72.14.201.30", "action": "registry.filing.export", "resource": "public/registry"}
+  ]
+}

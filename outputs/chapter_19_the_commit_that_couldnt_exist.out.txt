@@ -1,0 +1,31 @@
+Commit timeline check
+Rule: a commit cannot describe an event that has not happened yet.
+
+4c19a02 22:31 -> count guests before trusting house
+   earliest event referenced: 19:30 | consistent
+e03a7bf 23:43 -> northstar is not a constellation
+   earliest event referenced: 23:42 | consistent
+7d4f0e9 23:47 -> if i die run this
+   earliest event referenced: 23:47 | consistent
+8a19fc2 23:41 -> door opened after no return
+   earliest event referenced: 00:15 | IMPOSSIBLE: describes the future
+91c4d0b 23:49 -> alibis should repeat cleanly
+   earliest event referenced: 00:17 | IMPOSSIBLE: describes the future
+c04f7aa 23:56 -> count the blind minutes
+   earliest event referenced: 00:10 | IMPOSSIBLE: describes the future
+f18d2c9 00:02 -> library time is not local
+   earliest event referenced: 00:17 | IMPOSSIBLE: describes the future
+a62b19e 00:04 -> old admin card still opens doors
+   earliest event referenced: 00:15 | IMPOSSIBLE: describes the future
+d77f4e1 00:07 -> northstar stays under review limit
+   earliest event referenced: 00:00 | consistent
+e3c6a04 00:09 -> deleted does not mean gone
+   earliest event referenced: 00:05 | consistent
+6f2c1bd 00:13 -> broken record still says manual
+   earliest event referenced: 00:10 | consistent
+f49b72e 00:17 -> let the program say who remains
+   earliest event referenced: 00:17 | consistent
+
+Impossible commits found: 5
+Clue: several commits were written before the events they describe.
+Files do not foreshadow. Someone backdated history.

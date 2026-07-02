@@ -1,0 +1,35 @@
+Final case solver
+The program ranks suspects by surfaced evidence, not by certainty.
+
+Ranked suspects:
+Eleanor Hartley score: 16
+Mikhail Volkov score: 3
+Julian Cross score: 1
+Imogen Wells score: 0
+Priya Anand score: 0
+Daniel Thorne score: 0
+
+Top evidence convergence: Eleanor Hartley
+Top score: 16
+
+Findings attached to top suspect:
+- known financial pressure tied to Marcus's announcement
+- approved Northstar under-threshold payments
+- library alibi fails tested timezone logic
+- knew OLD-ADMIN-000 still worked
+- deleted private Marcus meeting recovered
+- used phrase echoed by Marcus's recovered note
+- private device appeared near east wing
+- old admin card connects to manual camera disable
+
+Method findings:
+- OLD-ADMIN-000 opened SERVICE_STAIR_EAST at 00:06
+- EAST_BALCONY_DOOR shows an impossible inside opening at 00:15
+- CAM-EAST-02 was manually disabled by ADMIN_OVERRIDE using OLD-ADMIN-000
+
+Motive: Northstar under-threshold payments and Marcus's planned announcement
+Opportunity: private meeting ended at 00:05, before the old admin card opened the east service stair at 00:06
+Method: old admin access, manual camera disable, and a staged impossible balcony door event
+
+Conclusion: the final program points to Eleanor Hartley as the strongest evidence convergence.
+Reminder: Python organizes the truth. Whitmore still has to prove what happened in the room.

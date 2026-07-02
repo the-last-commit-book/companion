@@ -1,0 +1,25 @@
+{
+  "metadata_records": [
+    {
+      "camera_id": "CAM-EAST-02",
+      "status": "offline",
+      "offline_start_local": "2025-10-14T00:10:00-04:00",
+      "offline_end_local": "2025-10-14T00:17:00-04:00",
+      "last_command": "manual_disable",
+      "command_source": "ADMIN_OVERRIDE",
+      "keycard_id": "OLD-ADMIN-000"
+    },
+    {
+      "camera_id": "CAM-EAST-02",
+      "status": "corrupt_fragment",
+      "raw_fragment": "CAM-EAST-02|2025-10-14T00:10:00-04:00|manual_disable|ADMIN_OVERRIDE|OLD-ADMIN-000"
+    },
+    {
+      "camera_id": "CAM-NORTH-01",
+      "status": "online",
+      "last_command": "normal_operation",
+      "command_source": "SYSTEM",
+      "keycard_id": ""
+    }
+  ]
+}

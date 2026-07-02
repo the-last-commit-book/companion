@@ -1,0 +1,4 @@
+Seventh registered device: HARTLEY-PRIVATE
+Listed owner: Unknown
+Access point: EAST_WING_AP
+Case consequence: a Hartley-named private device appears near the east wing.

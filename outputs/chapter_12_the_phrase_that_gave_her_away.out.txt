@@ -1,0 +1,10 @@
+Message phrase review
+File: data/messages.txt
+Pattern: clean exit
+
+Line 1 match: [2025-10-01 09:18 local] Eleanor Hartley -> Marcus Thorne: The only clean exit is for you to step aside before the board asks.
+Line 6 match: [RECOVERED_NOTE] Marcus Thorne: She said this was the only clean exit.
+
+Total 'clean exit' matches: 2
+Matched lines found: 2
+Clue: the phrase 'clean exit' appears in Eleanor's earlier message and Marcus's recovered note.

@@ -1,0 +1,14 @@
+Keycard review
+Active keycards: {'JC-088', 'MT-001', 'DT-077', 'EH-216', 'PA-330', 'MV-014', 'IW-401'}
+Retired keycards: {'OLD-ADMIN-000'}
+Used keycards: {'MV-014', 'OLD-ADMIN-000', 'EH-216', 'MT-001'}
+
+Used retired keycards: {'OLD-ADMIN-000'}
+Used keycards not in active assignments: {'OLD-ADMIN-000'}
+
+OLD-ADMIN-000 use: 00:06 SERVICE_STAIR_EAST opened by Unassigned legacy admin
+OLD-ADMIN-000 use: 00:15 EAST_BALCONY_DOOR opened under Marcus Thorne's identity
+
+People who knew OLD-ADMIN-000 still worked: {'Mikhail Volkov', 'Eleanor Hartley'}
+Clue: the retired admin keycard was used during the critical window.
+Clue: only Eleanor Hartley and Mikhail Volkov are recorded as knowing the old admin card still worked.

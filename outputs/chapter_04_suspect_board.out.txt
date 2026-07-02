@@ -1,0 +1,26 @@
+Suspect board opened.
+
+Eleanor Hartley
+Role: Cofounder
+Motive category: direct financial: Marcus found the Northstar payments
+Claimed alibi: Library
+
+Julian Cross
+Role: Investor
+Motive category: direct financial: Marcus planned to reject the buyout
+Claimed alibi: Wine Cellar
+
+Imogen Wells
+Motive category: personal reputation: Marcus damaged her career
+
+Mikhail Volkov
+Motive category: professional risk: his security system was used
+
+Priya Anand
+Motive category: story pressure: Marcus was the subject of her exposé
+
+Daniel Thorne
+Motive category: family money: inheritance and old resentment
+
+Direct financial thread: Eleanor Hartley and Julian Cross
+Clue: the money trail currently points hardest at Eleanor and Julian.

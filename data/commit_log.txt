@@ -1,0 +1,156 @@
+commit 4c19a02
+author: Marcus Thorne
+time: 2025-10-13 22:31 -0400
+
+    count guests before trusting house
+
+files changed:
+    + chapter_01_guest_list.py
+    + data/guests.csv
+
+commit e03a7bf
+author: Marcus Thorne
+time: 2025-10-13 23:43 -0400
+
+    northstar is not a constellation
+
+files changed:
+    + chapter_03_messages_after_midnight.py
+    + data/messages.txt
+
+commit 7d4f0e9
+author: Marcus Thorne
+time: 2025-10-13 23:47 -0400
+
+    if i die run this
+
+files changed:
+    + if_i_die_run_this.py
+
+commit 8a19fc2
+author: Marcus Thorne
+time: 2025-10-13 23:41 -0400
+
+    door opened after no return
+
+files changed:
+    + chapter_05_door_that_opened_twice.py
+    + data/door_log.csv
+
+commit b6117aa
+author: Marcus Thorne
+time: 2025-10-13 23:49 -0400
+
+    motives need structure
+
+files changed:
+    + chapter_04_suspect_board.py
+
+commit 91c4d0b
+author: Marcus Thorne
+time: 2025-10-13 23:49 -0400
+
+    alibis should repeat cleanly
+
+files changed:
+    + chapter_06_every_alibi_has_a_loop.py
+
+commit c04f7aa
+author: Marcus Thorne
+time: 2025-10-13 23:56 -0400
+
+    count the blind minutes
+
+files changed:
+    + chapter_07_the_impossible_minute.py
+
+commit f18d2c9
+author: Marcus Thorne
+time: 2025-10-14 00:02 -0400
+
+    library time is not local
+
+files changed:
+    + chapter_08_the_library_alibi.py
+
+commit a62b19e
+author: Marcus Thorne
+time: 2025-10-14 00:04 -0400
+
+    old admin card still opens doors
+
+files changed:
+    + chapter_09_the_duplicate_keycard.py
+
+commit d77f4e1
+author: Marcus Thorne
+time: 2025-10-14 00:07 -0400
+
+    northstar stays under review limit
+
+files changed:
+    + chapter_10_the_vendor_file.py
+
+commit e3c6a04
+author: Marcus Thorne
+time: 2025-10-14 00:09 -0400
+
+    deleted does not mean gone
+
+files changed:
+    + chapter_11_the_deleted_calendar_invite.py
+
+commit b4a90df
+author: Marcus Thorne
+time: 2025-10-14 00:11 -0400
+
+    her words not mine
+
+files changed:
+    + chapter_12_the_phrase_that_gave_her_away.py
+
+commit 6f2c1bd
+author: Marcus Thorne
+time: 2025-10-14 00:13 -0400
+
+    broken record still says manual
+
+files changed:
+    + chapter_13_exceptions_in_the_evidence.py
+
+commit 0d8c4be
+author: Marcus Thorne
+time: 2025-10-14 00:14 -0400
+
+    stop asking once
+
+files changed:
+    + chapter_14_functions_dont_lie.py
+
+commit 9ce71a3
+author: Marcus Thorne
+time: 2025-10-14 00:15 -0400
+
+    suspects need one shape
+
+files changed:
+    + chapter_15_the_class_of_suspects.py
+
+commit 3a6e0dc
+author: Marcus Thorne
+time: 2025-10-14 00:16 -0400
+
+    test the time before trusting the room
+
+files changed:
+    + chapter_16_test_the_alibis.py
+
+commit f49b72e
+author: Marcus Thorne
+time: 2025-10-14 00:17 -0400
+
+    let the program say who remains
+
+files changed:
+    + chapter_17_the_final_program.py
+    + case_solver.py

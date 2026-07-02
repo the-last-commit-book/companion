@@ -1,0 +1,9 @@
+{
+  "service": "Glasshouse Cloud Identity",
+  "tokens": {
+    "usr-mt-0001": {"owner": "Marcus Thorne", "type": "user", "issued_for": "founder workstation"},
+    "usr-eh-0002": {"owner": "Eleanor Hartley", "type": "user", "issued_for": "cofounder laptop"},
+    "usr-pa-0006": {"owner": "Priya Anand", "type": "user", "issued_for": "press access, read-only"},
+    "svc-kiosk-7742": {"owner": "Mikhail Volkov", "type": "service", "issued_for": "Raven House security kiosk"}
+  }
+}

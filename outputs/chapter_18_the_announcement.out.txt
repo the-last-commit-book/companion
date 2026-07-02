@@ -1,0 +1,18 @@
+Northstar outbound transfer review
+File: data/bank_transfers.csv
+
+T-2201 -> Seahook Holdings LLC $48000 on 2025-06-30
+T-2214 -> Seahook Holdings LLC $51500 on 2025-08-15
+T-2229 -> Seahook Holdings LLC $47250 on 2025-09-28
+T-2230 -> Coastal Registry Services $1200 on 2025-09-30
+
+Recipient: Seahook Holdings LLC
+  Transfers: 3
+  Total: $146750
+Recipient: Coastal Registry Services
+  Transfers: 1
+  Total: $1200
+
+Northstar received $199120 in under-threshold payments approved by Eleanor Hartley.
+Clue: almost all of it left again, three transfers to Seahook Holdings LLC.
+Open question: who is Seahook Holdings?

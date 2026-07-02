@@ -1,0 +1,13 @@
+Dataset self-test passed.
+Python version: 3.14.4
+Guests: 6
+Unique devices by 00:12: 7 ['CROSS-PHONE', 'DANIEL-PHONE', 'HARTLEY-PHONE', 'HARTLEY-PRIVATE', 'IMOGEN-TABLET', 'PRIYA-NOTES', 'VOLKOV-SECURE']
+Eleanor naive library time: 00:17
+Eleanor actual local library time: 2025-10-13 20:17 EDT
+Actual murder UTC: 2025-10-14 04:17 UTC
+Library event at actual murder time: no_occupancy
+Retired keycards used: ['OLD-ADMIN-000']
+Northstar under-threshold payments approved by Eleanor: 4
+"clean exit" matches: 2
+East camera outage minutes: 7
+Accessibility note: Marcus used a wheelchair; chair brake engaged inside east balcony door.

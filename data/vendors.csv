@@ -1,0 +1,6 @@
+payment_id,vendor,amount_usd,approval_threshold_usd,approver
+P-1041,Northstar Consulting,49750,50000,Eleanor Hartley
+P-1088,Northstar Consulting,49800,50000,Eleanor Hartley
+P-1132,Northstar Consulting,49920,50000,Eleanor Hartley
+P-1175,Northstar Consulting,49650,50000,Eleanor Hartley
+P-1201,Harbor Legal Review,52000,50000,Julian Cross

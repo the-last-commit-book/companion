@@ -1,0 +1,22 @@
+Signal spread review
+Rule: carried devices vary; installed devices hold still.
+
+Device: HARTLEY-PHONE
+  readings: 142  strongest: -48  weakest: -71  spread: 23
+Device: CROSS-PHONE
+  readings: 138  strongest: -51  weakest: -69  spread: 18
+Device: IMOGEN-TABLET
+  readings: 131  strongest: -49  weakest: -74  spread: 25
+Device: VOLKOV-SECURE
+  readings: 149  strongest: -44  weakest: -63  spread: 19
+Device: PRIYA-NOTES
+  readings: 127  strongest: -52  weakest: -68  spread: 16
+Device: DANIEL-PHONE
+  readings: 133  strongest: -50  weakest: -72  spread: 22
+Device: HARTLEY-PRIVATE
+  readings: 144  strongest: -61  weakest: -63  spread: 2
+  Finding: effectively stationary all night.
+
+Stationary devices: ['HARTLEY-PRIVATE']
+Clue: HARTLEY-PRIVATE never moved. It was not carried near the east wing.
+It was placed there, and left to testify.

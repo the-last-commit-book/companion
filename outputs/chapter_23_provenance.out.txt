@@ -1,0 +1,49 @@
+Provenance-weighted case model
+Rule: a finding is only as honest as its source.
+
+MURDER MODEL
+  Mikhail Volkov | SVC-KIOSK session blinded CAM-EAST-02 at 00:10
+    provenance: independent_system | points: 3 | weighted: 3.0
+  Mikhail Volkov | scripted 0.38s alert acknowledgment as alibi
+    provenance: independent_system | points: 2 | weighted: 2.0
+  Mikhail Volkov | forged history pushed from RAVENHOUSE-SEC01 at 02:09
+    provenance: independent_system | points: 3 | weighted: 3.0
+  Mikhail Volkov | manager of record for Seahook Holdings
+    provenance: mainland_records | points: 3 | weighted: 3.0
+  Mikhail Volkov | custody of retired handset matching planted device
+    provenance: physical | points: 2 | weighted: 2.0
+  Mikhail Volkov | knew OLD-ADMIN-000 still worked
+    provenance: independent_system | points: 1 | weighted: 1.0
+  Mikhail Volkov | large man seen descending service stair ~00:11
+    provenance: witness | points: 1 | weighted: 1.0
+  Eleanor Hartley | knew OLD-ADMIN-000 still worked
+    provenance: independent_system | points: 1 | weighted: 1.0
+  Eleanor Hartley | deleted private meeting with Marcus
+    provenance: independent_system | points: 1 | weighted: 1.0
+  Eleanor Hartley | library alibi collapse (report supplied by security export)
+    provenance: suspect_supplied | points: 2 | weighted: 1.0
+  Eleanor Hartley | HARTLEY-PRIVATE device near east wing
+    provenance: forged_repo | points: 2 | weighted: 0.0
+  Daniel Thorne | east-wing visit 00:10:52 to 00:12:31
+    provenance: witness | points: 1 | weighted: 1.0
+
+  TOTAL Mikhail Volkov: 15.0
+  TOTAL Eleanor Hartley: 3.0
+  TOTAL Daniel Thorne: 1.0
+
+FRAUD MODEL
+  Eleanor Hartley | approved four under-threshold Northstar payments
+    provenance: mainland_records | points: 3 | weighted: 3.0
+  Eleanor Hartley | 'clean exit' pressure on Marcus before announcement
+    provenance: independent_system | points: 2 | weighted: 2.0
+  Eleanor Hartley | deleted meeting and denial before discovery
+    provenance: independent_system | points: 1 | weighted: 1.0
+  Mikhail Volkov | Seahook received $146,750 of Northstar funds
+    provenance: mainland_records | points: 3 | weighted: 3.0
+
+  TOTAL Eleanor Hartley: 6.0
+  TOTAL Mikhail Volkov: 3.0
+
+Conclusion: the murder model converges on Mikhail Volkov.
+The fraud model remains Eleanor Hartley's to answer.
+The forged findings now weigh what they always weighed: nothing.

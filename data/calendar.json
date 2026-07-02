@@ -1,0 +1,52 @@
+{
+  "timezone": "America/New_York",
+  "events": [
+    {
+      "event_id": "evt-771",
+      "title": "Private meeting: Marcus + Eleanor",
+      "start_local": "2025-10-13T23:50:00-04:00",
+      "end_local": "2025-10-14T00:05:00-04:00",
+      "location": "Marcus's Study",
+      "status": "deleted",
+      "attendees": [
+        "Marcus Thorne",
+        "Eleanor Hartley"
+      ],
+      "deleted_by": "Eleanor Hartley",
+      "notes": "Recovered from calendar sync cache."
+    },
+    {
+      "event_id": "evt-553",
+      "title": "Announcement Dinner",
+      "start_local": "2025-10-13T20:00:00-04:00",
+      "end_local": "2025-10-13T22:00:00-04:00",
+      "location": "Dining Room",
+      "status": "confirmed",
+      "attendees": [
+        "Marcus Thorne",
+        "Eleanor Hartley",
+        "Julian Cross",
+        "Imogen Wells",
+        "Mikhail Volkov",
+        "Priya Anand",
+        "Daniel Thorne"
+      ],
+      "deleted_by": "",
+      "notes": "Glasshouse board retreat dinner."
+    },
+    {
+      "event_id": "evt-610",
+      "title": "Board breakfast",
+      "start_local": "2025-10-14T08:00:00-04:00",
+      "end_local": "2025-10-14T09:00:00-04:00",
+      "location": "Dining Room",
+      "status": "confirmed",
+      "attendees": [
+        "Eleanor Hartley",
+        "Julian Cross"
+      ],
+      "deleted_by": "",
+      "notes": "Cancelled after incident."
+    }
+  ]
+}

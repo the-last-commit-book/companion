@@ -1,0 +1,12 @@
+Library alibi review
+Smart-light timestamp in report: 2025-10-14T00:17:00Z
+Naive report read the clock as: 00:17
+Converted Raven House local time in Maine: 2025-10-13 20:17 EDT
+Actual murder time, local: 2025-10-14 00:17 -0400
+Actual murder time, UTC: 2025-10-14 04:17 UTC
+Gap between library confirmation and murder: 4:00:00
+
+Library event from naive report: occupancy_confirmed
+Library event at actual murder time: no_occupancy
+Result: the library timestamp does not match the murder time.
+Clue: Eleanor's library alibi is four hours too early when UTC is converted correctly.

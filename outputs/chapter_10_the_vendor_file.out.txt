@@ -1,0 +1,13 @@
+Vendor file review
+File: data/vendors.csv
+
+Northstar payments under approval threshold:
+P-1041 Northstar Consulting $49750 approved by Eleanor Hartley
+P-1088 Northstar Consulting $49800 approved by Eleanor Hartley
+P-1132 Northstar Consulting $49920 approved by Eleanor Hartley
+P-1175 Northstar Consulting $49650 approved by Eleanor Hartley
+
+Northstar under-threshold payment count: 4
+Northstar under-threshold payment total: $199120
+Approval threshold: $50000
+Clue: Northstar received repeated payments just under the approval threshold, all approved by Eleanor Hartley.

@@ -1,0 +1,5 @@
+Recovered message to Eleanor: I found the Northstar payments. We will discuss this before any announcement.
+Keyword position for 'northstar': 12
+Recovered instruction to Whitmore: check the old vendor file.
+File Marcus wanted checked: the old vendor file
+Clue: Marcus was investigating Northstar payments and pointed Whitmore to the old vendor file.

@@ -1,0 +1,35 @@
+Alibi sensor review
+
+Suspect: Eleanor Hartley
+Claimed location: Library
+Sensor note: Imported from smart-light report; timezone not checked yet.
+Status: imported report; timezone review required
+
+Suspect: Julian Cross
+Claimed location: Wine Cellar
+Sensor note: Wine cellar humidity panel touched at 00:16:20 local.
+Status: local sensor support found
+
+Suspect: Imogen Wells
+Claimed location: West Gallery
+Sensor note: West gallery voice note saved at 00:16:45 local.
+Status: local sensor support found
+
+Suspect: Mikhail Volkov
+Claimed location: Security Office
+Sensor note: Security console storm alert acknowledged at 00:17:05 local.
+Status: local sensor support found
+
+Suspect: Priya Anand
+Claimed location: Conservatory
+Sensor note: Conservatory keyboard activity at 00:17:12 local.
+Status: local sensor support found
+
+Suspect: Daniel Thorne
+Claimed location: Billiard Room
+Sensor note: Billiard table ball return triggered at 00:17:31 local.
+Status: local sensor support found
+
+Local sensor matches: 5
+Alibis needing timezone review: 1
+Clue: five alibis have local sensor support; Eleanor's library alibi is the one imported from a time-sensitive report.

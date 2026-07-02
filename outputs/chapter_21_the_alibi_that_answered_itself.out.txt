@@ -1,0 +1,19 @@
+Acknowledgment latency review
+Storm alert raised:      00:17:03.20
+Storm alert acknowledged: 00:17:03.58
+Latency this night: 0.38 seconds
+
+Baseline latencies: [4.2, 6.8, 11.3, 5.5, 7.9, 4.8]
+Baseline average: 6.8 seconds
+Baseline fastest: 4.2 seconds
+
+Finding: the acknowledgment is faster than human. It was scripted.
+
+Events in service session SVC-KIOSK:
+  00:10:00.41 camera_manual_disable CAM-EAST-02
+  00:16:58.77 camera_enable CAM-EAST-02
+  00:17:03.58 alert_acknowledge STORM-EAST
+  02:09:14.02 repo_sync_push marcus-thorne/last-commit
+
+Clue: the session that acknowledged the alert also blinded the camera
+and pushed the forged history. The alibi answered itself.
